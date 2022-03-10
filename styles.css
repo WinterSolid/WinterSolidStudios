@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    padding: 0; 
+}
+.about-me {
+    height: inherit;
+    padding: auto;
+    display: flex;
+    justify-content: right;
+    
+}
+
+
+.world {
+    background-color: linear-gradient (rgb(177, 163, 145),rgb(56, 27, 27));
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+.world img {
+    position: absolute;
+}
+#image-one {
+    width: 50%;
+    bottom: auto;
+    margin-left: 0%;
+}
+
+#image-one {
+    width: 50%;
+    bottom: auto;
+}
+#image-one {
+    width: 50%;
+    bottom: auto;
+}
+
+#image-one {
+    width: 50%;
+    bottom: auto;
+}
+#image-one {
+    width: 50%;
+    bottom: auto;
+}
+
+
+#MAIN_image-one {
+    width: 20%;
+    bottom: 20%; 
+}
+h1 {
+    font-style: italic;
+    color: blueviolet;
+}
